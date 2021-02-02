@@ -37,10 +37,15 @@ Huawei p20 lite
 Huawei Y6 2019
 
 from fastboot
+
 OneClick
+
 all data will be erased on unlock
+
 imel number
+
 python script
+
 by Chernobylll
 
 
