@@ -55,7 +55,7 @@ by Chernobylll
 1. Enter the IMEI (ONLY First Number)
 1. Start the bruteforce.  
 
-    (this may take several ~~2h~~ days) 
+    (this may take several ~~2h~~ day) 
 	
 1. If the correct code is found, your phone will either be instantly unlocked or prompt you with an additional confirmation dialogue on the target device.  
     (all data will be erased on unlock!)
